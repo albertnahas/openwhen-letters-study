@@ -2,7 +2,7 @@
 
 How people write, lock and open "Open When" letters: short letters a recipient is told to open at a particular moment ("open when you miss me", "open on your birthday"). The data comes from OpenWhen (https://www.openwhen.cards), a website for writing and sending these letters, and covers every letter sealed from 2026-02-04 to 2026-11-03.
 
-Author: Albert Nahas, OpenWhen. Licence: CC BY 4.0. A written summary with charts is at https://www.openwhen.cards/open-when-letters-study.
+Author: Albert Nahas, OpenWhen. Licence: CC BY 4.0. DOI: [10.5281/zenodo.24085754](https://doi.org/10.5281/zenodo.24085754). A written summary with charts is at https://www.openwhen.cards/open-when-letters-study.
 
 ## Files
 
@@ -34,4 +34,4 @@ These are letters written on one website, not open when letters in general: who 
 
 ## Cite
 
-Nahas, A. (2026). Open When Letters: aggregate statistics from 56,670 digital letters [Data set]. OpenWhen. https://www.openwhen.cards/open-when-letters-study
+Nahas, A. (2026). Open When Letters: aggregate statistics from 56,670 digital letters [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24085754
