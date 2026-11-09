@@ -1,0 +1,28 @@
+{
+  "upload_type": "dataset",
+  "title": "Open When Letters: aggregate statistics from 56,670 digital letters",
+  "version": "2026-11-03",
+  "creators": [
+    {
+      "name": "Nahas, Albert",
+      "affiliation": "OpenWhen"
+    }
+  ],
+  "description": "How people write, lock and open \"Open When\" letters, short letters a recipient is told to open at a particular moment. Aggregate metadata from every letter sealed on OpenWhen (openwhen.cards) from 2026-02-04 to 2026-11-03: titles, opening times, question and date locks, countries, occasion spikes and optional extras. No letter text was read; every figure covers at least 50 letters. Summary with charts: https://www.openwhen.cards/open-when-letters-study",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "open when letters",
+    "letters",
+    "digital letters",
+    "gift messages",
+    "time capsule",
+    "long-distance relationships"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.openwhen.cards/open-when-letters-study",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-article"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "asOf": "2026-11-03",
+  "k": 50,
+  "letters": 56670,
+  "senders": 33686,
+  "firstLetter": "2026-02-04",
+  "labels": {
+    "ourLabel": 12.1,
+    "top": [
+      {
+        "label": "Open When You Miss Me",
+        "share": 33.4
+      },
+      {
+        "label": "Open When You Want to Feel Loved",
+        "share": 29
+      },
+      {
+        "label": "Open On Our Anniversary",
+        "share": 11.5
+      },
+      {
+        "label": "Open When You're Sad",
+        "share": 8.3
+      },
+      {
+        "label": "Open When You Can't Sleep",
+        "share": 2
+      },
+      {
+        "label": "Open on your birthday",
+        "share": 1.8
+      },
+      {
+        "label": "Open the night of your birthday",
+        "share": 0.9
+      },
+      {
+        "label": "Open on your birthday morning",
+        "share": 0.8
+      }
+    ],
+    "countryLeaders": [
+      {
+        "label": "Open When You Want to Feel Loved",
+        "country": "PH",
+        "share": 31.7
+      },
+      {
+        "label": "Open When You Miss Me",
+        "country": "IN",
+        "share": 38.3
+      },
+      {
+        "label": "Open On Our Anniversary",
+        "country": "IN",
+        "share": 21.2
+      },
+      {
+        "label": "Open When You're Sad",
+        "country": "IN",
+        "share": 34.4
+      }
+    ]
+  },
+  "opens": {
+    "cohortFrom": "2026-09-05",
+    "cohortTo": "2026-10-26",
+    "cohortLetters": 27361,
+    "opened": 73.3,
+    "medianMinutes": 3.7,
+    "buckets": [
+      {
+        "label": "Within 5 minutes",
+        "share": 53.5
+      },
+      {
+        "label": "5 to 60 minutes",
+        "share": 19.1
+      },
+      {
+        "label": "1 to 24 hours",
+        "share": 22.2
+      },
+      {
+        "label": "Later",
+        "share": 5.2
+      }
+    ],
+    "withQuestion": 78.7,
+    "withoutGate": 73.1
+  },
+  "gates": {
+    "question": 31.3,
+    "timeLock": 8.5,
+    "medianLockHours": 10.1,
+    "lockedOverAYear": 130
+  },
+  "countries": {
+    "coverage": 66.2,
+    "top": [
+      {
+        "label": "PH",
+        "share": 26
+      },
+      {
+        "label": "IN",
+        "share": 24.7
+      },
+      {
+        "label": "ID",
+        "share": 18.9
+      },
+      {
+        "label": "US",
+        "share": 5
+      },
+      {
+        "label": "PK",
+        "share": 2.5
+      },
+      {
+        "label": "MY",
+        "share": 1.3
+      },
+      {
+        "label": "VN",
+        "share": 1.3
+      },
+      {
+        "label": "BD",
+        "share": 1.2
+      }
+    ]
+  },
+  "calendar": {
+    "busiestWeekday": "Sunday",
+    "quietestWeekday": "Wednesday",
+    "busiestVsQuietest": 1.31,
+    "spikes": [
+      {
+        "day": "2026-06-08",
+        "label": "National Best Friends Day",
+        "letters": 249,
+        "ratio": 2.6
+      },
+      {
+        "day": "2026-08-01",
+        "label": "Girlfriend's Day, Friendship Day weekend",
+        "letters": 577,
+        "ratio": 2.3
+      },
+      {
+        "day": "2026-08-02",
+        "label": "Friendship Day",
+        "letters": 524,
+        "ratio": 2
+      }
+    ]
+  },
+  "features": {
+    "premium": 1.7,
+    "photo": 1.2,
+    "voice": 0.4,
+    "song": 33.1,
+    "sticker": 49.8,
+    "replies": 9
+  }
+}

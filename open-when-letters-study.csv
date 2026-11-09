@@ -1,0 +1,47 @@
+section,metric,label,country,value,unit
+totals,letters,,,56670,letters
+totals,senders,,,33686,senders
+labels,ready_made_label_share,,,12.1,percent of all letters
+labels,label_share,Open When You Miss Me,,33.4,percent of ready-made-label letters
+labels,label_share,Open When You Want to Feel Loved,,29,percent of ready-made-label letters
+labels,label_share,Open On Our Anniversary,,11.5,percent of ready-made-label letters
+labels,label_share,Open When You're Sad,,8.3,percent of ready-made-label letters
+labels,label_share,Open When You Can't Sleep,,2,percent of ready-made-label letters
+labels,label_share,Open on your birthday,,1.8,percent of ready-made-label letters
+labels,label_share,Open the night of your birthday,,0.9,percent of ready-made-label letters
+labels,label_share,Open on your birthday morning,,0.8,percent of ready-made-label letters
+labels,label_share_in_country,Open When You Want to Feel Loved,PH,31.7,percent of ready-made-label letters in country
+labels,label_share_in_country,Open When You Miss Me,IN,38.3,percent of ready-made-label letters in country
+labels,label_share_in_country,Open On Our Anniversary,IN,21.2,percent of ready-made-label letters in country
+labels,label_share_in_country,Open When You're Sad,IN,34.4,percent of ready-made-label letters in country
+opens,opened,,,73.3,percent of cohort
+opens,opened_with_question,,,78.7,percent of question-locked letters
+opens,opened_without_lock,,,73.1,percent of unlocked letters
+opens,median_minutes_to_open,,,3.7,minutes
+opens,time_to_open,Within 5 minutes,,53.5,percent of opened letters
+opens,time_to_open,5 to 60 minutes,,19.1,percent of opened letters
+opens,time_to_open,1 to 24 hours,,22.2,percent of opened letters
+opens,time_to_open,Later,,5.2,percent of opened letters
+locks,question_lock,,,31.3,percent of all letters
+locks,date_lock,,,8.5,percent of all letters
+locks,median_date_lock_hours,,,10.1,hours
+locks,locked_over_a_year,,,130,letters
+countries,country_known,,,66.2,percent of all letters
+countries,country_share,,PH,26,percent of letters with known country
+countries,country_share,,IN,24.7,percent of letters with known country
+countries,country_share,,ID,18.9,percent of letters with known country
+countries,country_share,,US,5,percent of letters with known country
+countries,country_share,,PK,2.5,percent of letters with known country
+countries,country_share,,MY,1.3,percent of letters with known country
+countries,country_share,,VN,1.3,percent of letters with known country
+countries,country_share,,BD,1.2,percent of letters with known country
+calendar,busiest_vs_quietest_weekday,,,1.31,ratio (Sunday vs Wednesday)
+calendar,occasion_spike,National Best Friends Day,,2.6,ratio to surrounding median on 2026-06-08 (249 letters)
+calendar,occasion_spike,"Girlfriend's Day, Friendship Day weekend",,2.3,ratio to surrounding median on 2026-08-01 (577 letters)
+calendar,occasion_spike,Friendship Day,,2,ratio to surrounding median on 2026-08-02 (524 letters)
+features,premium,,,1.7,percent of all letters
+features,photo,,,1.2,percent of all letters
+features,voice,,,0.4,percent of all letters
+features,song,,,33.1,percent of all letters
+features,sticker,,,49.8,percent of all letters
+features,replies,,,9,percent of all letters

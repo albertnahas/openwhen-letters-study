@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+type: dataset
+title: "Open When Letters: aggregate statistics from 56,670 digital letters"
+authors:
+  - family-names: Nahas
+    given-names: Albert
+    affiliation: OpenWhen
+version: "2026-11-03"
+license: CC-BY-4.0
+url: "https://www.openwhen.cards/open-when-letters-study"
+repository-code: "https://github.com/albertnahas/openwhen-letters-study"
+keywords: [open when letters, letters, digital letters, gift messages, time capsule, long-distance relationships]
